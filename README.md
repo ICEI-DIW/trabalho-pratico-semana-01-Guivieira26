@@ -7,7 +7,7 @@ Nome: Guilherme Henrique Vieira Nascimento
 Matricula: 765241
 
 ## Tela de inspeção com navegador
-![alt text](site.PNG)
+![alt text](img/site.PNG)
 ## Tela de projeto no Replit
-![alt text](replit.PNG)
+![alt text](img/replit.PNG)
 
